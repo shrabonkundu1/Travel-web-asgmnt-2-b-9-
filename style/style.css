@@ -602,6 +602,7 @@ input, select {
 
 .dotted-description li {
     margin-bottom: 16px;
+    font-weight: 600;
 }
 
 /* video-section ends here */ 
